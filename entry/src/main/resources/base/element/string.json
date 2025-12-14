@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "PPTX To Speech"
+    },
+    {
+      "name": "module_desc",
+      "value": "Convert PPTX slide text into speech using HarmonyOS TTS"
+    },
+    {
+      "name": "choose_file",
+      "value": "选择 PPTX 文件"
+    },
+    {
+      "name": "start_tts",
+      "value": "开始朗读"
+    },
+    {
+      "name": "stop_tts",
+      "value": "停止朗读"
+    },
+    {
+      "name": "status_ready",
+      "value": "准备就绪"
+    },
+    {
+      "name": "status_loading",
+      "value": "正在解析幻灯片"
+    },
+    {
+      "name": "status_speaking",
+      "value": "正在朗读"
+    }
+  ]
+}
