@@ -1,0 +1,12 @@
+{
+  "module": {
+    "name": "entry",
+    "type": "entry",
+    "build": {
+      "harVersion": "1.0.0",
+      "products": [
+        "default"
+      ]
+    }
+  }
+}
